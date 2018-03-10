@@ -1,6 +1,8 @@
 # SteamAcc-Rand
 *A script that creates a random steam account on every run, requires Node 8+.*
 
+**THIS SCRIPT IS DEPRECATED AS OF 1/2/18! THE STEAM ACCOUNT CREATION ENDPOINT HAS BEEN MODIFIED SO THAT AUTOMATION IS NO LONGER POSSIBLE. THIS PROGRAM NO LONGER FUNCTIONS CORRECTLY.**
+
 SteamAcc-Rand is a program which allows you to automatically create a new Steam account, and output results to file. To configure the program, follow the steps below.
 
 ## Setup
